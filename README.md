@@ -1,2 +1,2 @@
 # bc-analytics
-Combing structured and unstructured data for BC analytics
+Combining structured and unstructured data for BC analytics
